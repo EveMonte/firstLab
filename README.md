@@ -1,0 +1,2 @@
+# firstLab
+acquaintance with git
