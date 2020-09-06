@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ООП\firstLab\newProg\newProg\bin\Debug\newProg.exe.config
+C:\Users\User\Desktop\ООП\firstLab\newProg\newProg\bin\Debug\newProg.exe
+C:\Users\User\Desktop\ООП\firstLab\newProg\newProg\bin\Debug\newProg.pdb
+C:\Users\User\Desktop\ООП\firstLab\newProg\newProg\obj\Debug\newProg.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ООП\firstLab\newProg\newProg\obj\Debug\newProg.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ООП\firstLab\newProg\newProg\obj\Debug\newProg.exe
+C:\Users\User\Desktop\ООП\firstLab\newProg\newProg\obj\Debug\newProg.pdb
